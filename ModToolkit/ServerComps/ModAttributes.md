@@ -11,7 +11,7 @@ module in ModToolkit.ServerComps.ModAttributes
 | 参数名 | 数据类型 | 说明 |
 | ------ | -------- | ---- |
 | entityId | str | 实体Id |
-| name | str | 数据名称 |
+| name | str | 属性名称 |
 | defaultValue | any | 初始值，支持一切Python基本类型 |
 
 | 数据类型 | 说明 |
@@ -40,7 +40,7 @@ ModAttributes.GetAttribute("12345", "health", "200")
 #### 示例
 ```python
 from Toolkit.ServerComp import ModAttributes
-ModAttributes.GetAttributes("12345", "health", "speed")	# 
+ModAttributes.GetAttributes("12345", "health", "speed")	# 获取实体的health和speed属性
 ```
 
 
@@ -50,7 +50,7 @@ ModAttributes.GetAttributes("12345", "health", "speed")	#
 | 参数名 | 数据类型 | 说明 |
 | ------ | -------- | ---- |
 | entityId | str | 实体Id |
-| name | str | 数据名称 |
+| name | str | 属性名称 |
 | value | any |  数据值，支持一切Python基本类型|
 | saveToMem | bool | 是否存入内存，默认为True |
 
