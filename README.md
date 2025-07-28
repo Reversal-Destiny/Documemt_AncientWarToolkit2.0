@@ -11,5 +11,7 @@ AncientWarToolkit2.0 API是[逆转命运工作室](http://www.rdcraft.cn/about/)
 
 - [**自定义数据**](https://github.com/Reversal-Destiny/Documemt_AncientWarToolkit2.0/blob/89b7621f1f355604fd703d0845ed6868b7bcafcf/ModToolkit/ServerComps/ExtraData.md)
 - [**自定义属性**](https://github.com/Reversal-Destiny/Documemt_AncientWarToolkit2.0/blob/89b7621f1f355604fd703d0845ed6868b7bcafcf/ModToolkit/ServerComps/ModAttributes.md)
+- [**原版属性**](https://github.com/Reversal-Destiny/Documemt_AncientWarToolkit2.0/blob/2738cbfc2a86d5fd50f46284cc259e5ec17a8add/ModToolkit/ServerComps/Attributes.md)
 - [**游戏时间**](https://github.com/Reversal-Destiny/Documemt_AncientWarToolkit2.0/blob/fa8ad2f133e86c29b06fe37896ac023712c6e1be/ModToolkit/ServerComps/WorldTime.md)
+
 
